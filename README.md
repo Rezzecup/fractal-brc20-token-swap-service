@@ -4,18 +4,6 @@ This service enables the swapping of BRC-20 tokens, based on the BRC-20 token st
 
 This project implements a decentralized Automated Market Maker (AMM) to facilitate the swapping of BRC-20 tokens conforming to the ordinal theory. It allows for swaps between BRC-20 tokens and other token types by utilizing a liquidity pool mechanism.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Architecture Overview](#architecture-overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [AMM Implementation](#amm-implementation)
-- [CAT20 Token Support](#cat20-token-support)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 The Fractal BRC-20 Token Swap Service is designed to provide a seamless mechanism for swapping BRC-20 tokens. It is built around the concept of liquidity pools, which enables efficient token swaps without the need for traditional order books.
